@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Animation.Samples.Runtime", "Unity.2D.Animation.Samples.Runtime.csproj", "{F0EE72A7-36C5-694E-71B1-B32C915DD4CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{4CDC8AC0-62FF-A770-96E9-7BDAFFC911AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Animation.Samples.Dependency", "Unity.2D.Animation.Samples.Dependency.csproj", "{8B7C96F7-B5CB-31FB-AFB3-13A40A8DD977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Animation.Samples.Editor", "Unity.2D.Animation.Samples.Editor.csproj", "{2768ABAC-81B3-BA94-120D-1D88B76C6BF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0EE72A7-36C5-694E-71B1-B32C915DD4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0EE72A7-36C5-694E-71B1-B32C915DD4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0EE72A7-36C5-694E-71B1-B32C915DD4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0EE72A7-36C5-694E-71B1-B32C915DD4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CDC8AC0-62FF-A770-96E9-7BDAFFC911AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDC8AC0-62FF-A770-96E9-7BDAFFC911AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDC8AC0-62FF-A770-96E9-7BDAFFC911AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDC8AC0-62FF-A770-96E9-7BDAFFC911AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7C96F7-B5CB-31FB-AFB3-13A40A8DD977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7C96F7-B5CB-31FB-AFB3-13A40A8DD977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7C96F7-B5CB-31FB-AFB3-13A40A8DD977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7C96F7-B5CB-31FB-AFB3-13A40A8DD977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2768ABAC-81B3-BA94-120D-1D88B76C6BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2768ABAC-81B3-BA94-120D-1D88B76C6BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2768ABAC-81B3-BA94-120D-1D88B76C6BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2768ABAC-81B3-BA94-120D-1D88B76C6BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
